@@ -1,2 +1,2 @@
-# CoInSyDe
-Component based code generation and integration in formal system design
+# JoInSyDe
+Java-bsed Component integration code generation and in formal system design
