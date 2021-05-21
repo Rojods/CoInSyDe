@@ -1,2 +1,2 @@
 # JoInSyDe
-Java-bsed Component integration code generation and in formal system design
+Java-based Component integration code generation and in formal system design
